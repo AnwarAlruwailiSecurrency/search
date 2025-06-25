@@ -1,7 +1,7 @@
 # Search Script
 
 ## Description
-This script (`search.sh`) searches for specific key or names inside the contents of files in a dir and its subdir. If a file contains any of the listed names, it outputs the file path and the name found.
+This script (`search.sh`) searches for key or names inside the contents of files in a dir and its subdir. If a file contains any of the listed names, it outputs the file path and the name found.
 
 ## Usage
 
@@ -17,7 +17,7 @@ This script (`search.sh`) searches for specific key or names inside the contents
    ```
 
 ## Modifying the List of Names
-Replace the names 
+Replace the names in the (`search.sh`) file
 
 ```bash
 names=("test1" "test2" )
